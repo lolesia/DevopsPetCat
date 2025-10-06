@@ -1,4 +1,4 @@
-# DevopdPetCat
+# DevopsPetCat
 A Python server to fetch random images from S3 using Nginx, Prometheus, Grafana, Nginx Exporter
 # Run app
 ```commandline
